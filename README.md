@@ -9,7 +9,7 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
-- <b>CCNA (Cisco Certified Network Associate</b>
+- <b>CCNA (Cisco Certified Network Associate)</b>
 - <b>ISC2 Certified in Cybersecurity</b>
 - <b>AWS CLF-C01</b>
 - <b>Google IT Support</b>
